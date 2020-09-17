@@ -163,3 +163,11 @@ function plot() {
   functionPlot(parameters);
 }
 ```
+
+### Education
+* I have a higher technical education *[National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»](https://kpi.ua/ru)*
+* Basic course `Java` (two month)
+* Online cource `HTML/CSS` (three month)
+
+### English
+My Level `A2`
