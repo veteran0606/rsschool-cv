@@ -36,10 +36,44 @@
     position: relative;
     width: 100%;
 }
-
 .main_foto{
     margin-left: 50px;
     min-width: 360px;
     max-width: 1024px; 
     width: 70%; 
+}
+.div_fl{
+    margin: 44px 0 70px 0px ;
+    text-align: -webkit-center;
+}
+.section{
+    margin: 0 44px;
+}
+ul{
+    margin: 0 50px;
+}
+.article_1 div {
+    margin: 0 70px;
+}
+.yb_bar_img{
+    border-radius: 125px;
+}
+.italic {
+    font-style: italic;
+}
+.yb_login{
+    margin-right: 12px;
+}
+.span_1{
+    font-family: 'Open Sans', sans-serif;
+    font-style:  italic;
+}
+.span_2{
+    font-family: 'Open Sans', sans-serif;
+    background:#FFFFCC;
+}
+.footer {
+    padding: 20px 0;
+    font-size: 16px;
+    text-align: center;
 }
