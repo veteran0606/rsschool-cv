@@ -1,1 +1,45 @@
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header-wrapper{
+    margin: 0 auto;   
+    align-items: center;
+    width: 100%;
+    min-width: 360px;
+    max-width: 1024px;
+    padding: 50px 64px 0 50px;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+.main_h{
+    padding-bottom: 40px;
+    text-align: -webkit-center;
+}
+.name{    
+    margin-bottom: -150px;
+}
+.name_{
+    margin-left: 0 90px 0 -34px;    
+    padding: 70px 9px;
+    position: relative;
+    top: -222px;
+    left: 515px;
+}
+.main{
+    margin: 0 auto;
+    min-width: 360px;
+    max-width: 1024px;
+    position: relative;
+    width: 100%;
+}
+
+.main_foto{
+    margin-left: 50px;
+    min-width: 360px;
+    max-width: 1024px; 
+    width: 70%; 
+}
