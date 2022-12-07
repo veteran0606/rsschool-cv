@@ -1,0 +1,15 @@
+* {
+    margin: 0, auto;
+    box-sizing: border-box;
+}
+
+body {
+    width: 900px;
+    content: normal;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
