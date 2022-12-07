@@ -57,3 +57,7 @@ export default App;
   * CSS3  
   * JavaScript  
   * Java basic level
+## Languages:
+ * Russian native 
+ * Ukrainian nativ
+ * English A2
