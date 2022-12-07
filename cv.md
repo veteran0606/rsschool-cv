@@ -52,3 +52,8 @@ export default App;
   **University:**    National Technical University of Ukraine ["Igor Sikorsky Kyiv Polytechnic Institute"](https://kpi.ua/en)  
 
   **Courses:** JavaScript 2.0 [itgit](https://itgid.info/ru)
+## Skills:  
+  * HTML5  
+  * CSS3  
+  * JavaScript  
+  * Java basic level
