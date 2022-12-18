@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0, auto;
+    padding: 0, auto;
+}
+
+.body {
+    margin: 0 auto;
+    min-width: 360px;
+    max-width: 1020px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.span_1 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.foot_img {
+    padding: 7px 0 0 7px;
+    height: 30px;
+    width: 40px;
+}
